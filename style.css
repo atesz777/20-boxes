@@ -1,0 +1,29 @@
+.line1, .line2 {
+    width: 725px;
+    height: 100px;
+    border: 2px solid #4285F4;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.blue {
+    width: 50px;
+    height: 50px;
+    background: #4285F4;
+}
+
+.line1 {
+    margin-bottom: 10px;
+}
+
+.line2 {
+    background: #FF6347;
+}
+
+.purple {
+    width: 50px;
+    height: 50px;
+    background: purple;
+}
+
